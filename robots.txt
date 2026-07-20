@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omniaAbdallah.github.io/reference-yer1eo/sitemap.xml
